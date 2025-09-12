@@ -1,6 +1,7 @@
 //Alejandro Jad
 //September 16, 2022
-//Inflation rate Lab 1 part 2
+//Inflation rate: Console program that reads a list of times in HH:MM:SS format, 
+//validates input, and computes the minimum and maximum timer values.
 
 #include <iostream>
 using namespace std;
