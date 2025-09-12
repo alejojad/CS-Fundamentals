@@ -1,6 +1,7 @@
 //Alejandro jad
 //November 2, 2022
-//Lab 7 Marathon times
+//Timer comparison: Program to calculate inflation rates from Consumer Price Index (CPI) values, 
+//storing results in an array, and then computing the average and median rate across multiple entries.
 #include <iostream>
 #include <limits>
 using namespace std;
